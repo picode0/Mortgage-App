@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+pillow
+python-multipart
+python-magic
+spacy
+nameparser
+pandas
