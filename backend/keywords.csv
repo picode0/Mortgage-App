@@ -1,6 +1,24 @@
 Subcategory,Keywords
-Paystub,YTD;Employment Insurance;Pay Period
-T4,Statement of Remuneration; QPP contributions
-NOA,Notice of Assessment
-RBC Chequing,RBC personal banking
-RBC Savings,RBC personal savings
+Paystub,ytd;year to date;employment insurance;ei premiums;pay period;gross pay;net pay;payroll;pay stub;bi-weekly;salary;wages
+T4,statement of remuneration;t4 slip;qpp contributions;quebec pension plan;employment income;federal tax;income tax;tax certificate;revenue agency;cra
+NOA,notice of assessment;assessment notice;total income;taxable income;refund;balance owing;line 15000;tax year;federal tax;canada revenue
+RBC Chequing,rbc personal banking;royal bank;chequing account;account statement;direct deposit;transaction history;monthly statement;banking statement
+RBC Savings,rbc personal savings;royal bank;savings account;interest earned;interest rate;account balance;monthly statement;personal banking
+TD Chequing,td canada trust;td bank;chequing account;account statement;transaction summary;direct deposit;monthly statement
+TD Savings,td canada trust;td bank;savings account;interest earned;account balance;monthly statement;personal banking
+BMO Chequing,bank of montreal;bmo;chequing account;account statement;transaction history;direct deposit;monthly statement
+BMO Savings,bank of montreal;bmo;savings account;interest earned;account balance;monthly statement;personal banking
+Scotia Chequing,scotiabank;scotia;chequing account;account statement;transaction summary;direct deposit;monthly statement
+Scotia Savings,scotiabank;scotia;savings account;interest earned;account balance;monthly statement;personal banking
+Passport,canadian passport;passport;place of birth;date of birth;citizenship;government of canada;passport canada
+Driver License,driver license;driver's license;class;expiry date;restrictions;province;motor vehicle;driving license
+Birth Certificate,birth certificate;registry office;vital statistics;place of birth;date of birth;certificate of birth
+SIN Card,social insurance number;sin card;employment authorization;canada;social insurance;sin number
+Health Card,health card;ohip;alberta health;bc services;health insurance;provincial health;medicare
+Bank Draft,bank draft;certified cheque;official cheque;guaranteed funds;cashier's check;money order
+Gift Letter,gift letter;gift funds;down payment gift;family gift;gift affidavit;gifted funds
+Investment Statement,investment account;tfsa;rrsp;mutual funds;portfolio;investment summary;account balance;gic;guaranteed investment
+Employment Letter,employment letter;job letter;salary confirmation;employment verification;offer letter;work verification;hr letter;employment contract
+Self Employment,self employed;business income;t1 general;schedule c;business statement;sole proprietorship;freelance income
+Rental Income,rental income;property income;lease agreement;rental statement;tenant;landlord;property management
+Other Income,pension income;disability income;social assistance;government benefits;child tax benefit;old age security;ei benefits
