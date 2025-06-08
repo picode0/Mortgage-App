@@ -2,6 +2,23 @@ subcategory,category
 Paystub,Income
 T4,Income
 NOA,Income
+Employment Letter,Income
+Self Employment,Income
+Rental Income,Income
+Other Income,Income
 RBC Chequing,Down Payment
 RBC Savings,Down Payment
+TD Chequing,Down Payment
+TD Savings,Down Payment
+BMO Chequing,Down Payment
+BMO Savings,Down Payment
+Scotia Chequing,Down Payment
+Scotia Savings,Down Payment
+Investment Statement,Down Payment
+Bank Draft,Down Payment
+Gift Letter,Down Payment
 Passport,ID
+Driver License,ID
+Birth Certificate,ID
+SIN Card,ID
+Health Card,ID
